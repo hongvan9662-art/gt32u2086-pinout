@@ -21,7 +21,7 @@ File gốc: **`GT32U2086_pinout.drawio`** (draw.io, lưu dạng XML không nén 
 3. Chọn repo `gt32u2086-pinout` → nhánh `main` → file `GT32U2086_pinout.drawio`.
 4. Sửa xong bấm **Ctrl+S**, ghi ngắn gọn đã sửa gì → draw.io lưu thẳng vào GitHub.
 
-Link mở nhanh: [Sửa trong draw.io](https://app.diagrams.net/#HYOUR-GITHUB-NAME/gt32u2086-pinout/main/GT32U2086_pinout.drawio)
+Link mở nhanh: [Sửa trong draw.io](https://app.diagrams.net/#hongvan9662-art/gt32u2086-pinout/main/GT32U2086_pinout.drawio)
 
 **Cách 2 – draw.io Desktop**: tải file về, sửa, rồi lên repo bấm **Add file › Upload files** để up đè.
 
